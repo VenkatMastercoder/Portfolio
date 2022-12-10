@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    color: #ffffff;
+}
+
+.Header-Text {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.body-main {
+    background-color: #191a1d;
+}
+
+.Main-H1-text {
+    color: #ffffff;
+}
+
+.Main-p-text {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.button-Style {
+    background-color: #4B6CC1;
+    width: 120px;
+    height: 45px;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: Roboto;
+
+}
+
+.ss-cc {
+    color: #4b6cc1;
+}
+
+.Main-heading {
+    color: #cced00;
+}
+
+.Main-heading-2 {
+    color: #ffffff;
+}
+
+.About-Me {
+    background-color: #1f2933;
+    width: 100vw;
+    font-family: "Roboto";
+
+}
+
+.About-Me-Heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding-top: 15px;
+}
+
+.About-Me-Sub-Heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.Skills-Box {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+
+}
+
+.Skills-p-tag {
+    margin-top: 12px;
+    font-size: 22px;
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.About-Me-Para {
+    color: #9aa5b1;
+    background-color: #323f4b;
+    padding: 15px;
+    font-family: "Roboto";
+}
+
+.bb-ground {
+    background-color: #323f4b;
+}
+
+.bb-ground-2 {
+    background-color: #1f2933;
+}
+
+.pp12 {
+    width: 64px;
+    height: 64px;
+}
+
+.Portfolio {
+    background-color: #3E4C59;
+    height: 100%;
+}
+
+.card {
+    background-color: #323F4B;
+}
+
+.Card-Preview {
+    padding: 15px;
+}
+
+.Card-Title {
+    color: #67737F;
+    font-weight: bold;
+}
+
+.Card-Title-p {
+    color: #67737F;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.Card-Heading {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.Card-word {
+    color: #cced00;
+}
+
+.Work-done-Section {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    height: 100%;
+}
+
+
+
+.break-line {
+    background-color: #ffffff;
+    width: 65px;
+    height: 0px;
+}
+
+.Work-done-Section-img {
+    text-align: center;
+}
+
+.Footer {
+    background-color: #001c32;
+    color: #9aa5b1;
+}
+
+.Footer-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+}
+
+.NN {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.Footer-phone-3,
+.Footer-phone-2,
+.Footer-phone-1 {
+    color: #9aa5b1;
+    width: 100%;
+}
+
+.font-3 {
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: bold;
+    color: #86929F;
+}
+
+.footer-copyrights {
+    background-color: #0d2436;
+    width: 100%;
+    color: #5a7184;
+    height: 40px;
+    font-family: "Roboto";
+    font-size: 13px;
+
+}
+
+.font-Cc-Green {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.font-Cc-Green-Sub {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.Services-Page {
+    background-color: #52606d;
+    width: 100%;
+    height: 100%;
+}
+
+.Card {
+    background-color: #323f4b;
+    color: #9aa5b1;
+    padding: 15px;
+    border-radius: 9px;
+    font-size: 20px;
+    font-family: "Roboto";
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+
+.Card-Heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.Card-img {
+    width: 50px;
+    height: 50px;
+}
+
+.Card-Main-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.Card-sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.live-btn-i {
+    color: #ffffff;
+    background-color: transparent;
+    height: 55px;
+    font-family: "Roboto";
+}
