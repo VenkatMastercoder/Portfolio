@@ -10,6 +10,10 @@ body {
     font-weight: 700;
 }
 
+.finnal-class {
+    width: 100%;
+}
+
 .body-main {
     background-color: #191a1d;
 }
@@ -34,6 +38,10 @@ body {
 
 }
 
+.web-212 {
+    height: 200px;
+}
+
 .ss-cc {
     color: #4b6cc1;
 }
@@ -48,7 +56,6 @@ body {
 
 .About-Me {
     background-color: #1f2933;
-    width: 100vw;
     font-family: "Roboto";
 
 }
@@ -178,6 +185,8 @@ body {
 .Footer-phone-1 {
     color: #9aa5b1;
     width: 100%;
+    height: 100%;
+
 }
 
 .font-3 {
@@ -191,7 +200,7 @@ body {
     background-color: #0d2436;
     width: 100%;
     color: #5a7184;
-    height: 40px;
+    height: 50px;
     font-family: "Roboto";
     font-size: 13px;
 
